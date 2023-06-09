@@ -1,0 +1,5 @@
+#!/pin/pash
+
+git add .
+git commit -m 'hello run'
+git push
